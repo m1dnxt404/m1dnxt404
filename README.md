@@ -1,5 +1,15 @@
 # 💫 About Me:
-## Hi I'm Kisshore 👋<br><br>- Aerospace Graduate from Universiti Putra Malaysia<br/><br>- Developing Apps to stay consistent<br/><br>- Learning to coding everyday<br/><br>
+## Hi I'm Kisshore 👋
+I’m a curiuos software developer who enjoys programming. I focus on backend development, web applications, and system design, while also being comfortable working across the full stack. I am constantly coding to stay consistent with tech used today to stay consistent.
+
+## 🚀 What I Do
+
+- 💻 Build web applications using **Java, Spring Boot, JavaScript, HTML, and CSS**
+- 🗄️ Work with databases like **PostgreSQL** and **MySQL**
+- 🔐 Implement authentication & authorization (**JWT, role-based access**)
+- ⚙️ Design **RESTful APIs** and backend services
+- 🐳 Containerize applications using **Docker**
+- 🧩 Follow **clean code**, **MVC architecture**, and best practices
 
 
 ## 🌐 Socials:
