@@ -1,6 +1,6 @@
 # 💫 About Me:
 ## Hi I'm Kisshore 👋
-I’m a curiuos software developer who enjoys programming. I focus on backend development, web applications, and system design, while also being comfortable working across the full stack. I am constantly coding to stay consistent with tech used today to stay consistent.
+I’m a curious software developer who enjoys programming. I focus on backend development, web applications, and system design, while also being comfortable working across the full stack. I am constantly coding to stay consistent with tech used today to stay consistent.
 
 ## 🚀 What I Do
 
