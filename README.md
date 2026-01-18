@@ -34,6 +34,15 @@ I’m a curious software developer who enjoys programming. I focus on backend de
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&layout=compact&theme=tokyonight&hide_border=true)
 
+## 🌸 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1dnxt404&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=radical&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&layout=compact&theme=radical&hide_border=true)
+
+
 
 
 ### ✍️ Random Dev Quote
