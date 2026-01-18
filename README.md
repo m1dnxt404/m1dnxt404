@@ -22,6 +22,8 @@ I’m a curious software developer who enjoys programming. I focus on backend de
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=m1dnxt404&show_icons=true&theme=tokyonight)
 
+![Streak](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=tokyonight&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api?username=m1dnxt404&theme=merko&hide_border=false&cache_seconds=1800)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=merko&hide_border=false&cache_seconds=1800)
