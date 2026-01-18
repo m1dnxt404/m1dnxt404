@@ -1,3 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:7a5cff,100:ff2bd6&height=140&section=header"/>
+
+<h1 align="center">⚡ Welcome to my GitHub ⚡</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=700&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+m1dnxt404;Software+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+HTML+%7C+CSS+%7C+Javascript;Building+cool+projects+and+always+learning+%F0%9F%94%A5" />
+</p>
+
 # 💫 About Me:
 ## Hi I'm Kisshore 👋
 I’m a curious software developer who enjoys programming. I focus on backend development, web applications, and system design, while also being comfortable working across the full stack. I am constantly coding to stay consistent with tech used today to stay consistent.
@@ -20,35 +28,26 @@ I’m a curious software developer who enjoys programming. I focus on backend de
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=m1dnxt404&theme=merko&hide_border=false&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1dnxt404&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=merko&hide_border=false&cache_seconds=1800)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&theme=merko&hide_border=false&layout=compact&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
-## 📊 GitHub Stats
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=m1dnxt404&theme=tokyo-night&cache_seconds=1800)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=m1dnxt404&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Streak](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&layout=compact&theme=tokyonight&hide_border=true)
-
-## 🌸 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=m1dnxt404&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=m1dnxt404&theme=radical&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1dnxt404&layout=compact&theme=radical&hide_border=true)
-
-
+![Metrics](https://metrics.lecoq.io/m1dnxt404?template=classic&base.header=0&base.metadata=0&config.timezone=Asia/Kuala_Lumpur&cache_seconds=1800)
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=m1dnxt404&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,50:7a5cff,100:00d4ff&height=140&section=footer"/>
+
+
+
+
