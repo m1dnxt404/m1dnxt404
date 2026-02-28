@@ -120,7 +120,7 @@ I’m a curious software developer who enjoys programming and exploring the poss
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <!--snake animation-->
-<<div align = "center">
+<div align = "center">
 <img src="https://raw.githubusercontent.com/m1dnxt404/m1dnxt404/output/github-snake-dark.svg" alt="Snake animation" />  
 </div>
 
