@@ -121,7 +121,7 @@ I’m a curious software developer who enjoys programming and exploring the poss
 
 <!--snake animation-->
 <<div align = "center">
-<img src="https://raw.githubusercontent.com/m1dnxt404/m1dnxt404/output/github-snake.svg" alt="Snake animation" />  
+<img src="https://raw.githubusercontent.com/m1dnxt404/m1dnxt404/output/github-snake-dark.svg" alt="Snake animation" />  
 </div>
 
 ---
