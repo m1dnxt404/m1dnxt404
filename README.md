@@ -15,7 +15,7 @@ I’m a curious software developer who enjoys programming and exploring the poss
 
 ## 🚀 What I Do
 
-- 💻 Build web applications using **Java, Spring Boot, JavaScript, HTML, CSS, Python, Node.js**
+- 💻 Build web applications using **Java, Spring Boot, JavaScript, HTML, CSS, Python, Ruby, Rails, Node.js**
 - 🗄️ Work with databases like **PostgreSQL**, **MySQL**, **MongoDB**
 - 🔐 Implement authentication & authorization (**JWT, role-based access**)
 - ⚙️ Design **RESTful APIs** and proper backend services
